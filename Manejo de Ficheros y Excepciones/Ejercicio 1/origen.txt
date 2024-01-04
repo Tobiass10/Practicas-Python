@@ -1,0 +1,4 @@
+Tobias;10-03-2001;Piscis
+Alberto;04-10-2015;Cancer
+Pablo;08-02-2020;Virgo
+Agustin;01-05-2008;Geminis
