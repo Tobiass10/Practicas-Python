@@ -1,4 +1,4 @@
-#**Ejercicio 2:**
+#**Ejercicio 5:**
 
 #Cargar una lista con 30 valores, generados aleatoriamente y que no se repitan, comprendidos entre 1 y 70
 
