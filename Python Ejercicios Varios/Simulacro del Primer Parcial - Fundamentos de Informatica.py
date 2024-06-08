@@ -1,6 +1,12 @@
 #FUNDAMENTOS DE INFORMÁTICA- INTRODUCCIÓN A LA ALGORITMIA
-#SIMULACRO DEL 1 PARCIAL
+#SIMULACRO DEL 1° PARCIAL
 
+#Alumno: Fernandez Sarso, Tobias Alejo
+#Legajo: 1153411
+#Materia: Fundamentos de Informatica
+#Turno: Noche
+
+#Enunciado:
 #Hacer un diagrama de flujo en Pseint y un programa que permita :
 #Introducir 5 números entre por teclado entre 10 y 40. SE supone que los números se ingresan correctamente.
 
