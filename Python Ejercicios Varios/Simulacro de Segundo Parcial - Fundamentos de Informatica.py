@@ -1,4 +1,6 @@
-#Ejercicio: Simulacro de Parcial
+#FUNDAMENTOS DE INFORMÁTICA- INTRODUCCIÓN A LA ALGORITMIA
+#SIMULACRO DEL 2° PARCIAL
+
 #Alumno: Fernandez Sarso, Tobias Alejo
 #Legajo: 1153411
 #Materia: Fundamentos de Informatica
