@@ -1,10 +1,9 @@
-#UVA 7 | Ejercicio 4:
-#Ejercicio N°3 | UVA N°3
 #Alumno: Fernandez Sarso, Tobias Alejo
 #Legajo: 1153411
 #Materia: Fundamentos de Informatica
 #Turno: Noche
 
+#Ejercicio N°12
 #Enunciado:
 
 #Desarrollar un algoritmo que permita crear al azar 5 números pertenecientes a la lista A
