@@ -1,3 +1,11 @@
+#Alumno: Fernandez Sarso, Tobias Alejo
+#Legajo: 1153411
+#Materia: Fundamentos de Informatica
+#Turno: Noche
+
+#Ejercicio N°2:
+#Enunciado:
+
 """
 /*
  * Escribe una función que calcule y retorne el factorial de un número dado
