@@ -1,9 +1,9 @@
-#Ejercicio 5 UVA 5.
 #Alumno: Fernandez Sarso, Tobias Alejo
 #Legajo: 1153411
 #Materia: Fundamentos de Informatica
 #Turno: Noche
 
+#Ejercicio N°10:
 #Enunciado:
 
 #La universidad necesita un sistema para cargar las notas finales
