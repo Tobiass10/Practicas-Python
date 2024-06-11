@@ -1,9 +1,9 @@
-#UVA 6 | Ejercicio 3:
 #Alumno: Fernandez Sarso, Tobias Alejo
 #Legajo: 1153411
 #Materia: Fundamentos de Informatica
 #Turno: Noche
 
+#Ejercicio 11:
 #Enunciado:
 
 #Diseñar dos funciones llamadas descuento y recargo: ambas recibirán un precio y
