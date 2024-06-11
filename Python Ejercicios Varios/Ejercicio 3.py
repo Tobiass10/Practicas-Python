@@ -1,4 +1,11 @@
-#Ejercicio 3:
+#Alumno: Fernandez Sarso, Tobias Alejo
+#Legajo: 1153411
+#Materia: Fundamentos de Informatica
+#Turno: Noche
+
+#Ejercicio N°3:
+#Enunciado:
+
 """
 /*
  * Escribe un programa que imprima los 50 primeros números de la sucesión
