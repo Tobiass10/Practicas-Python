@@ -1,6 +1,11 @@
-"""
-EJERCICIO 1:
+#Alumno: Fernandez Sarso, Tobias Alejo
+#Legajo: 1153411
+#Materia: Fundamentos de Informatica
+#Turno: Noche
 
+#Ejercicio N°1:
+#Enunciado:
+"""
  * Escribe un programa que muestre por consola (con un print) los
  * números de 1 a 100 (ambos incluidos y con un salto de línea entre
  * cada impresión), sustituyendo los siguientes:
