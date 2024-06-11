@@ -1,4 +1,11 @@
+#Alumno: Fernandez Sarso, Tobias Alejo
+#Legajo: 1153411
+#Materia: Fundamentos de Informatica
+#Turno: Noche
+
 #Ejercicio 6:
+#Enunciado:
+
 #Cargar un vector A[10], de manera desordenada.
 #Ordenarlo por el metodo de seleccion.
 #Ingresar un valor por teclado, buscarlo, e informar con una leyenda en que posicion se lo encontro.
