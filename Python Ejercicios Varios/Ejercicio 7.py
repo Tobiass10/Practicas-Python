@@ -1,4 +1,3 @@
-#Ejercicio N°3 | UVA N°3
 #Alumno: Fernandez Sarso, Tobias Alejo
 #Legajo: 1153411
 #Materia: Fundamentos de Informatica
