@@ -4,6 +4,7 @@
 #Materia: Fundamentos de Informatica
 #Turno: Noche
 
+#Ejercicio 9:
 #Enunciado:
 
 #Crear un programa que pida un número de día (ejemplo: 1) y escriba el nombre del día en letras ("lunes"). Verificar que el día esté entre
