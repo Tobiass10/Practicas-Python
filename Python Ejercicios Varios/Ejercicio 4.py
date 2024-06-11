@@ -1,3 +1,11 @@
+#Alumno: Fernandez Sarso, Tobias Alejo
+#Legajo: 1153411
+#Materia: Fundamentos de Informatica
+#Turno: Noche
+
+#Ejercicio N°4:
+#Enunciado:
+
 #Ingresar un número entero y positivo y generar la siguiente serie
 
 #Si el valor es impar, multiplicarlo por 3 y sumarle 1; si el valor es par, dividirlo por 2.
