@@ -3,7 +3,7 @@
 #Materia: Fundamentos de Informatica
 #Turno: Noche
 
-#Ejercicio 11:
+#Ejercicio N°11:
 #Enunciado:
 
 #Diseñar dos funciones llamadas descuento y recargo: ambas recibirán un precio y
